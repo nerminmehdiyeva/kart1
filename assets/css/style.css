@@ -1,0 +1,52 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: "Google Sans",Roboto,arial,sans-serif;
+}
+header{
+  background-color: brown; 
+  height: 40px;
+}
+.header{
+  padding: 40px;
+  width: 400px;
+  height: 400px;
+  background-color: rgb(221, 215, 215);
+}
+.header img {
+    width: 320px;
+    height: 270px;
+    position: relative;
+}
+a{
+  text-decoration: none;
+}
+
+.price{
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #212c3a;
+  font-size: 22px;
+  font-weight: bold;
+  text-decoration: none;
+  cursor: pointer;
+
+}
+.valute{
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #212c3a;
+  font-size: 19px;
+  font-weight: bold;
+  text-decoration: none;
+  cursor: pointer;
+  
+}
+.about{
+  text-decoration: none;
+  font-size: 16px;
+    color: #212c3a}
+
+.date{
+  color: #8d94ad;
+    font-size: 17px;
+  }
